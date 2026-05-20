@@ -1,4 +1,4 @@
-/*
+/*Easy problem:
   Problem 22: Pattern Matching — Coin Value
 
   Define an enum Coin with variants Penny, Nickel, Dime, and Quarter.
